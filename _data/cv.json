@@ -1,100 +1,99 @@
 {
   "basics": {
-    "name": "Neema Mduma, PhD",
-    "label": "Founder of BakiShule",
+    "name": "Dominic Ondigo",
+    "label": "junior data analyst",
     "picture": "",
-    "email": "mdumaneema22@gmail.com",
-    "website": "https://neylicious.github.io",
-    "summary": "Queen Elizabeth Scholar 2020, Tanzania Sheroe 2019",
+    "email": "dominicondigo@gmail.com",
+    "website": "https://dominicondigo.github.io",
+    "summary": "Data Science WorldQuant University 2020",
     "profiles": [
       {
         "network": "Twitter",
-        "username": "nakadori",
-        "url": "https://twitter.com/nakadori"
+        "username": "dominicondigo",
+        "url": "https://twitter.com/dominic ondigo"
       },
   
       {
         "network": "Linkedln",
-        "username": "Neema Mduma",
-        "url": "https://linkedin.com/in/mduma"
+        "username": "Dominic Ondigo",
+        "url": "https://linkedin.com/in/dominic ondigo"
       },
 
       {
         "network": "Instagram",
-        "username": "neemaenica",
-        "url": "https://www.instagram.com/neemaenica/"
+        "username": "dominicondigo",
+        "url": "https://www.instagram.com/dominicondigo/"
       },
 
       {
         "network": "Facebook",
-        "username": "mdumaneema",
-        "url": "https://facebook.com/mdumaneema"
+        "username": "dominicondigo",
+        "url": "https://facebook.com/dominicondigo"
       }
     ]
   },
   "work": [
      {
-      "company": "The Nelson Mandela African Institution of Science and Technology.",
-      "position": "Lecturer",
-      "website": "https://www.nm-aist.ac.tz",
-      "startDate": "2020",
+      "company": "Sama.",
+      "position": "Data Agent(Senior QC)",
+      "website": "https://www.sama.com/",
+      "startDate": "2019",
       "endDate": "Up-to-date",
       "summary": ""
     },
     
     {
-      "company": "The Nelson Mandela African Institution of Science and Technology.",
-      "position": "Assistant Lecturer",
-      "website": "https://www.nm-aist.ac.tz",
-      "startDate": "2018",
-      "endDate": "2020",
-      "summary": ""
-    },
-    
-    {
-      "company": "University of Iringa Formerly Tumaini University Iringa.",
-      "position": "Assistant Lecturer",
-      "website": "http://www.uoi.ac.tz",
+      "company": "Sama",
+      "position": "Agent",
+      "website": "https://www.sama.com/",
       "startDate": "2016",
-      "endDate": "2017",
+      "endDate": "2019",
       "summary": ""
     },
     
     {
-      "company": "University of Iringa Formerly Tumaini University Iringa.",
-      "position": "Tutorial Assistant",
-      "website": "http://www.uoi.ac.tz",
-      "startDate": "2012",
-      "endDate": "2015",
+      "company": "Huduma Kenya .",
+      "position": "Service delivery internship",
+      "website": "https://www.hudumakenya.go.ke/",
+      "startDate": "Aug 2016",
+      "endDate": "Sept 2016",
+      "summary": ""
+    },
+    
+    {
+      "company": "NHIF.",
+      "position": "Health Insurance Internship",
+      "website": "http://www.nhif.or.ke/healthinsurance/",
+      "startDate": "May 2016",
+      "endDate": "July 2016",
       "summary": ""
     }
     
   ],
   "volunteer": [
     {
-      "organization": "Pythontz",
-      "position": "Communication Officer",
-      "website": "https://pythontz.github.io",
-      "startDate": "2017",
-      "endDate": "2018",
+      "organization": "GDG nairobi",
+      "position": "developer relations",
+      "website": "https://gdg.community.dev/gdg-nairobi/",
+      "startDate": "2019",
+      "endDate": "2019",
       "summary": ""
     }
   ],
   "education": [
     {
-      "institution": "The Nelson Mandela African Institution of Science and Technology",
-      "area": "Information and Communication Science and Engineering",
-      "studyType": "PhD",
-      "startDate": "2017",
+      "institution": "WorldQuant University",
+      "area": "Data Science",
+      "startDate": "2019",
       "endDate": "2020",
       "courses": 
     },
       
     {
-      "institution": "The Nelson Mandela African Institution of Science and Technology",
-      "area": "Information and Communication Science and Engineering",
-      "studyType": "Masters Degree",
-      "startDate": "2014",
+      "institution": "Mount Kenya Unviversity",
+      "area": "Actuarial Science",
+      "studyType": "Degree",
+      "startDate": "2013",
       "endDate": "2016",
       "courses": 
     }
@@ -102,7 +101,12 @@
  
   "skills": [
     {
-      "name": "Entrepreneur and leadership skills.",
+      "name": "leadership skills.",
+      "level": "",
+      "keywords":
+    },
+       {
+      "name": "Computing skills.",
       "level": "",
       "keywords":
     },
@@ -120,14 +124,14 @@
   ],
   "interests": [
     {
-      "name": "Applied machine learning and  ICT4D ",
+      "name": "Data Science ",
       "keywords": 
     }
   ],
   "references": [
     {
-      "name": " Anthony Faustine",
-      "reference": "It is my pleasure to recommend Neema, her performance working as a communication officer at pythontz  proved that she will be a valuable addition to any company."
+      "name": " Patrick Barasa",
+      "reference": "It is my pleasure to recommend Dominic, his performance working as a claims and operations analyst at NHIF  proved that he will be a valuable addition to any company."
     }
   ]
 }
