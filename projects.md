@@ -2,20 +2,8 @@
 title: "Projects"
 layout: page
 ---
-* **Lacuna Fund: Labeled Datasets for Agriculture in Sub-Saharan Africa - 2020**
-   * Machine Learning Datasets for Crop Diseases: Imagery and Spectrometry Data.
+* **Risk modelling for underwriting risk on motor vehicle insurance company, a case study of occidental insurance nairobi
+- 16**
+   * https://mountkenya.academia.edu/DOMINICONDIGO.
 
-* **L’Oréal-UNESCO Young Talents Award Winner for Sub-Saharan Africa - 2020**
-   * BakiShule.
 
-* **IndabaX-AI4D Innovation Grants - 2020**
-   * Development of Machine Learning Dataset for Poultry Diseases Diagnostics.
-
-* **Data for Local Impact Innovation Challenge (DLIIC) - 2019**
-   * LisheYetu.
-
-* **Data for Local Impact Innovation Challenge (DLIIC) - 2018**
-   * School Dropout Visualization Tool.
-
-* **Data for Local Impact Innovation Challenge (DLIIC) - 2017**
-   * Student Dropout Prediction Tool.
